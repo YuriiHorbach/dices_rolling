@@ -1,9 +1,9 @@
 require_relative 'classes/dice'
 require_relative 'classes/diceset'
 
-puts '-' * 20
+puts '-' * 25
 puts 'Dice game'
-puts '-' * 20
+puts '-' * 25
 
 
 ds = DiceSet.new
